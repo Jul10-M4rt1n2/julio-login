@@ -1,0 +1,105 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+/*----------inicio--Login--------------------*/
+
+#conteudo_Login{
+    height: 1500px;
+    width: 100%;
+    background-color: blue;
+    margin:auto;
+    padding-top: 10px;
+    position: fixed;
+    z-index: -99;
+}
+#conteudo_Login img{
+    float: left;
+}
+
+#login {
+    height: 486px;
+    width: 500px;
+    margin: auto;
+    background-color: #E9F9FB;
+    border-radius: 52px;
+    padding-top: 137px;height: 486px;
+    width: 500px;
+    margin: auto;
+    background-color: #E9F9FB;
+    border-radius: 52px;
+    padding-top: 137px;
+}
+
+#conteudo_Login label{
+    font-size: 20pt;
+     margin-left: 10%;
+
+}
+#conteudo_Login input{
+    font-size: 16pt;
+   margin-left: 10%;
+    width: 365px;
+    background-color: transparent;
+    border:0px;
+    border-bottom: 3px solid #5c5c75;
+    outline: none;
+    font-family: Calibri;
+
+
+}
+
+
+
+#conteudo_Login button{
+    height: 50px;
+    width: 50px;
+    background-color: #00FF00;
+    margin-left:26%;
+    width: 200px; 
+    border:0px;
+    border-radius: 10px;
+    margin-top: 50px;
+
+
+}
+#conteudo_Login button a{
+
+    color: white;
+    font-size: 16pt;  
+text-decoration: none;}
+
+
+#conteudo_Login li {
+    display: inline;
+    float: right;
+    margin-right: 41%;
+
+
+}
+
+.fg li {
+    padding-left: 30px;
+    display: inline;
+    padding-left: 10px;
+}
+.fg li img{
+    padding-left: 30%;
+  
+}
+
+
+/*------------------------fim login----------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
